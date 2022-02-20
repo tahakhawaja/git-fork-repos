@@ -2,7 +2,7 @@
 
 This program can be used to fork all public repositories from any user or organization. The program works by authenticating your GitHub account, and requesting the userame of the GitHub profile for which the repositories are being forked.
 
-## Instructions:
+## How to use:
 
 Step 1: Install the library github3.py by entering the command '$ pip install github3.py'
 
