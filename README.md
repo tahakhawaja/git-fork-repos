@@ -6,7 +6,7 @@ This program can be used to fork all public repositories from any user or organi
 
 Step 1: Install the library github3.py by entering the command '$ pip install github3.py'
 
-Step 2: Provide login details of your account by providing your username and password or personal access token
+Step 2: Provide login details of your account by either providing your username and password or personal access token
 
 Step 3: Run the program with `python3` `fork_repo.py` 
 
