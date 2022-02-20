@@ -1,4 +1,4 @@
-# fork-user-repos
+# Git-Fork-Repos
 
 This program can be used to fork all public repositories from any user or organization. The program works by authenticating your GitHub account, and requesting the userame of the GitHub profile for which the repositories are being forked.
 
