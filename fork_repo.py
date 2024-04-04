@@ -33,6 +33,6 @@ for repository in github.repositories_by(given_user):
 for repository in github.repositories_by(given_user):
     repository.create_fork()
 
-# if you want to fork an organization to you, you can do the following:
+# if you want to fork an organization you can do the following:
 # for repository in github.repositories_by(user):
 #     repository.create_fork(oranization)
